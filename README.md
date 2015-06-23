@@ -1,3 +1,1 @@
-# fungo
-fghj
-fghj
+# fungo documentation
