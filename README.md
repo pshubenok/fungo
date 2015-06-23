@@ -1,1 +1,1 @@
-# fungo documentation
+# Fun(Go) documentation
