@@ -6,4 +6,9 @@ System contains next content types:
 * Repository
 * Project
 
-User can has multiple clouds. Each cloud can have multiple repositories and each repository can have multiple projects. Content diagram:
+User can has multiple clouds. Each cloud can have multiple repositories and each repository can have multiple projects.
+
+Content diagram:
+
+![](../img/1.PNG)
+
