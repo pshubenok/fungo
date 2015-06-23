@@ -1,4 +1,4 @@
 # Summary
 
-* Development guide
+* [Development guide](development_guide.md)
 
